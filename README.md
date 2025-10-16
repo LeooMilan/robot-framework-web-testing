@@ -67,5 +67,5 @@ robot -d ./resultados -i tag_name .
 ```
 
 Observações:
-- Ajuste os seletores em `resources/Keywords.robot` se a Amazon alterar o layout.
+- Ajuste os seletores em `resources/Keywords.robot` se o Kabum alterar o layout.
 - Para estabilidade, considere usar `webdriver-manager` para gerenciar o chromedriver.
