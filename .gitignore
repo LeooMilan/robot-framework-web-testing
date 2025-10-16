@@ -1,0 +1,18 @@
+# Arquivos de resultado dos testes
+resultados/
+*.log
+*.xml
+*.html
+
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Screenshots
+*.png
+
+# Executável do Git (não precisa versionar)
+Git-*.exe
+
+# Arquivo PIPE (temporário)
+PIPE
