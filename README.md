@@ -1,4 +1,4 @@
-# Amazon (BR) Testes com Robot Framework
+# Kabum - Testes com Robot Framework
 
 Suíte de exemplo com dois casos: acessar menu Eletrônicos e pesquisar um produto.
 
